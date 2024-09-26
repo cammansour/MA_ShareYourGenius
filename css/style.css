@@ -42,3 +42,26 @@ ul.nav a:hover {
 .active {
     background-color: rgb(109, 44, 0);
 }
+
+.gallery {
+    float: left;
+    margin: 10;
+    /* text-align: left; */
+    width: 200;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+desc {
+    text-align: center;
+    padding: 15px;
+}
+
+img:hover {
+background-color: black;
+} 
+/* IF YOU hover over the image on the contact page, it will have a black background
+ */
